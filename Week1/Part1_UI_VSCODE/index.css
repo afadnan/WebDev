@@ -57,7 +57,7 @@
   justify-content: space-around;
 }
 .centerright h3 {
-  color: #9BA3B4;
+  color: #9ba3b4;
   border: 1px solid;
   border-radius: 8px;
   padding: 5px;
@@ -72,8 +72,8 @@
 }
 .centerright button {
   padding: 5px;
-  color:#ffffff;
-  background-color: #0078D4;
+  color: #ffffff;
+  background-color: #0078d4;
   width: 300px;
   height: 40px;
   font-size: 21px;
@@ -85,23 +85,22 @@
   width: 800px;
   height: 450px;
 }
-.linkpage span{
+.linkpage span {
   margin-top: 200px;
 }
-.linkpage a{
+.linkpage a {
   font-size: 18px;
-  color: #4DAAFC;
+  color: #4daafc;
 }
-.linkpage span{
+.linkpage span {
   font-size: 18px;
-  color: #9BA3B4;
+  color: #9ba3b4;
 }
 
 .license {
   margin-top: 25px;
-  color: #9BA3B4;
+  color: #9ba3b4;
 }
-.license a{
-  
-  color: #4DAAFC;
+.license a {
+  color: #4daafc;
 }
