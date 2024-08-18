@@ -31,7 +31,7 @@
 .leftnav {
   color: whitesmoke;
 }
-.leftnav input{
+.leftnav input {
   color: whitesmoke;
   border-color: none;
   outline: none;
@@ -45,9 +45,63 @@
 .banner {
   color: #9ba3b4;
   padding: 4px 40px;
-  margin: 10px 0px;
+  margin: 30px 0px;
 }
 .banner a {
   color: #4daafc;
   text-decoration: none;
+}
+.centeritem {
+  margin-top: 80px;
+  display: flex;
+  justify-content: space-around;
+}
+.centerright h3 {
+  color: #9BA3B4;
+  border: 1px solid;
+  border-radius: 8px;
+  padding: 5px;
+}
+.centerright h1 {
+  margin-top: 40px;
+  color: white;
+  font-weight: 600;
+  font-size: 50px;
+  font-family: "Times New Roman", Times, serif;
+  margin: 32px;
+}
+.centerright button {
+  padding: 5px;
+  color:#ffffff;
+  background-color: #0078D4;
+  width: 300px;
+  height: 40px;
+  font-size: 21px;
+  border-radius: 8px;
+  padding: 5px;
+}
+
+.centerleft img {
+  width: 800px;
+  height: 450px;
+}
+.linkpage span{
+  margin-top: 200px;
+}
+.linkpage a{
+  font-size: 18px;
+  color: #4DAAFC;
+}
+.linkpage span{
+  font-size: 18px;
+  color: #9BA3B4;
+}
+
+.license {
+  margin-top: 25px;
+  color: #9BA3B4;
+}
+.license a{
+  
+  color: #4DAAFC;
 }
