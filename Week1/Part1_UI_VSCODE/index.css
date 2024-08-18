@@ -1,0 +1,53 @@
+* {
+  background-color: #0e0e0e;
+}
+*:focus {
+  outline: none;
+}
+.topnav {
+  font-size: 22px;
+  display: flex;
+  justify-content: space-between;
+  padding-left: 100px;
+  padding-right: 100px;
+  margin-top: 15px;
+  align-items: center;
+}
+.rightnav {
+  color: gray;
+}
+.rightnav img {
+  width: 25px;
+}
+
+.rightnav a {
+  color: gray;
+  padding: 5px;
+  text-decoration: none;
+}
+.rightnav a:hover {
+  color: white;
+}
+.leftnav {
+  color: whitesmoke;
+}
+.leftnav input{
+  color: whitesmoke;
+  border-color: none;
+  outline: none;
+}
+
+.leftnav button:hover {
+  color: white;
+  cursor: pointer;
+}
+
+.banner {
+  color: #9ba3b4;
+  padding: 4px 40px;
+  margin: 10px 0px;
+}
+.banner a {
+  color: #4daafc;
+  text-decoration: none;
+}
